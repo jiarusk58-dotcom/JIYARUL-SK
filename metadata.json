@@ -1,0 +1,11 @@
+{
+  "name": "GM Video Editor",
+  "description": "KineMaster and Filmora style web video editing studio with multitrack timeline, transitions, filters, audio recording, text titles, and HD export.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
